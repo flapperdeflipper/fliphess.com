@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/fliphess
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fliphess.com
+  * I am fliphess (https://keybase.io/fliphess) on keybase.
+  * I have a public key with fingerprint F59F E905 3A7B 8706 3FD8  FCEC 71EB EE2F 93D1 61F3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010130b8599db0f0168ff4bb6dd40850aa8ef952c8e22c7c22e7b627e04725c173ea0a",
+            "fingerprint": "f59fe9053a7b87063fd8fcec71ebee2f93d161f3",
+            "host": "keybase.io",
+            "key_id": "71ebee2f93d161f3",
+            "kid": "010130b8599db0f0168ff4bb6dd40850aa8ef952c8e22c7c22e7b627e04725c173ea0a",
+            "uid": "3d969a6a6e37d402d4b8e94368fb3f19",
+            "username": "fliphess"
+        },
+        "service": {
+            "hostname": "fliphess.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1443792640,
+    "expire_in": 157680000,
+    "prev": "2a7d3eecfcd574772c5911c3fbf09cfc394edf319703937719503acfcf4c0685",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJrSBRRFMfXrCQllYreL4aQCJM7c2fmzt3SICRWjArKyAi2uTPnrlO6
+s+2Ma5uVUlAYUUpkQVsfIgmioKA+FEEvi6ioSKOXRU/KHhBBSE+7I/Ul+tj9crnn
+/P+/e87hdA7PDuVmNf0sXPUj0VCUdf3CnvrQ0vytoUaJuXZaCjdKq2HgglobPD+6
+2rGlsIRkJGPEDI1SmyGOZN3gXGVMt20VGRoyTQM41RTLAEWxiKUoQJiuEEAqUTRL
+JhhMZErFEnfiMUgmkk7cF1iuUQ4UadgkzCBIx9w2uAUWkYEBKJxiW9ZljoWxxvUC
+hyiOmR6UOK6IiUd0oLx/6P9z3fUDOGxTnZq6qQMmAqDYKjOAqlhQGeYyDYQeJONm
+HQTd1TqJGvA8aUOxJKIpx4JgsEEnfylKLLdOeBNJ13ctt1Zkanw/4YUDp59OBNIG
+YNHfkChz4raYo3CkIOk5blwKy0Jp+U5AlVUVE6roKiqWYG3CSULUCRQa0Q0kTvAP
+pARSMYmNASxu2RpRCVEsjcqyhTnjiIoopirYHMuUIEwxITLVEDZFgqsW0g1NCtpa
+E3elsCLKNGMC6TmxuOnXJ0HacPH8isGhrNzQ0CGDgv0K5Q4r/LN1ADn9VaWxfHZ1
+X/b0sorHX/ImKqX375zpS9pFc9CngszDY9sWPKt69aP0Rv/wjZWP5IIdjTPOlmx6
+X56zZebxN7dmN7y46D+tmL9z7Fs8OdPojfz87P2p7dWl2R872bqT1d61tm+jWPPK
+3nOPYh2RdwczY37unt2VKm/XY32n2wdvndvSlknXnMh0jz685EDxsQmL8o/27p23
+GPXcezmqZV3rwYVd5x6Gn0Nd+vuTlf0FhXkdEQwfmsZ2RVb18ksPuu9enxrJS99G
+Ryq/jeu5WbFs7aGO+7XV9etPLb88o6msb1ekZ/zorCVzvsyaciW0eXkitH/z19ae
+Kzmd3c173aobqUkfL20a8XraL7RKQzk=
+=2Zlb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fliphess
+
+==================================================================
+

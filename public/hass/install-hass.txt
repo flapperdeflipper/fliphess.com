@@ -1,0 +1,9 @@
+
+BASE_DIR="/data/home-assistant"
+DATA_DIR="$BASE_DIR/data"
+CONFIG_DIR="$BASE_DIR/config"
+
+mkdir -p "$DATA_DIR" "$CONFIG_DIR"
+
+curl -Lo installer.sh https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh
+bash installer.sh --machine intel-nuc --data-share /data/home-assistant 

