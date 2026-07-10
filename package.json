@@ -1,0 +1,12 @@
+{
+  "name": "fliphess.com",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node bin/build-cv.js"
+  },
+  "dependencies": {
+    "marked": "^12.0.0",
+    "puppeteer": "^25.3.0"
+  }
+}

@@ -1,3 +1,16 @@
 .DS_Store
 Thumbs.db
 *.swp
+
+# CV build tooling
+node_modules/
+
+# Generated CV artifacts (built into public/ by build-cv.js in CI)
+/public/cv.md
+/public/cv.txt
+/public/cv.html
+/public/cv.pdf
+/public/cv-nl.md
+/public/cv-nl.txt
+/public/cv-nl.html
+/public/cv-nl.pdf
